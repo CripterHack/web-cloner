@@ -22,7 +22,7 @@ This project is a simple website cloner built with Python. It allows users to cl
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/website-cloner.git
+   git clone https://github.com/CripterHack/website-cloner.git
    ```
 2. Navigate to the project directory:
    ```
