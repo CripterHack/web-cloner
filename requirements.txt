@@ -1,0 +1,3 @@
+tkinter
+requests
+beautifulsoup4
