@@ -1,3 +1,4 @@
-tkinter
-requests
-beautifulsoup4
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+customtkinter>=5.1.0
+pyinstaller>=5.8.0
