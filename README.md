@@ -28,8 +28,11 @@ A user-friendly application to clone websites with a modern graphical interface.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/CripterHack/web-cloner.git
-   cd web-cloner
+   git clone https://github.com/CripterHack/website-cloner.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd website-cloner
    ```
 
 2. Install dependencies:
