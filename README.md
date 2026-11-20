@@ -28,19 +28,19 @@ A user-friendly application to clone websites with a modern graphical interface.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/CripterHack/website-cloner.git
+   git clone https://github.com/CripterHack/web-cloner.git
    ```
 2. Navigate to the project directory:
    ```
-   cd website-cloner
+   cd web-cloner
    ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
 
-3. Run the application:
+4. Run the application:
    ```
    python web-cloner.py
    ```
